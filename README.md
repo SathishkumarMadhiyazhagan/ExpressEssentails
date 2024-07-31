@@ -154,4 +154,7 @@ Database integrationAdding the capability to connect databases to Express apps i
 
 # 5 Security Concerns and Best Practices
 
-Make sure you are using the most up-to-date version of ExpressUse Transport Layer Security(TLS)Use HelmetUse cookies securely
+Make sure you are using the most up-to-date version of Express
+Use Transport Layer Security(TLS)
+Use Helmet
+Use cookies securely
